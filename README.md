@@ -54,13 +54,21 @@ RSS: https://srv.tt-rss.org/fdroid/repo?fingerprint=C117B9EAEDFCBA8BEF73263CA949
 
 Bitwarden: https://mobileapp.bitwarden.com/fdroid?fingerprint=BC54EA6FD1CD5175BCCCC47C561C5726E1C3ED7E686B6DB4B18BAC843A3EFE6C
 
-Ungoogled Chromium-Android (Beta Builds, Currently): https://www.droidware.info/fdroid/repo?fingerprint=2144449AB1DD270EC31B6087409B5D0EA39A75A9F290DA62AC1B238A0EAAF851
+Ungoogled Chromium-Android (Beta Builds): https://www.droidware.info/fdroid/repo?fingerprint=2144449AB1DD270EC31B6087409B5D0EA39A75A9F290DA62AC1B238A0EAAF851
 
 Krombel Repo: https://fdroid.krombel.de/riot-dev/fdroid/repo/?fingerprint=EFF9B4933B1BCE776B9AB78A9853275EF044B738AE4815A832132018287EB734
 
 Plight: https://android.pilight.org?fingerprint=AE9E51B4AD1350847C8EBE0833D5C65B052F51371F4167DEF3AB2831CF7B1809
 
 Umbrella: https://secfirst.org/fdroid/repo?fingerprint=39EB57052F8D684514176819D1645F6A0A7BD943DBC31AB101949006AC0BC228
+
+Repository contains apps from git.tt-rss.org. https://srv.tt-rss.org/fdroid/repo?fingerprint=C117B9EAEDFCBA8BEF73263CA9490DB905EDFFFE5D7C071FFAAE152A75FCB6E4
+
+F-Droid Nightly: https://gitlab.com/fdroid/fdroidclient-nightly/raw/master/fdroid/repo?fingerprint=659E1FD284549F70D13FB02C620100E27EEEA3420558CCE62B0F5D4CF2B77D84
+
+KDE Nightly: https://cdn.kde.org/android/fdroid/repo/?fingerprint=B3EBE10AFA6C5C400379B34473E843D686C61AE6AD33F423C98AF903F056523F
+
+LibRetro (Retroarch): https://fdroid.libretro.com/repo?fingerprint=3F05B24D497515F31FEAB421297C79B19552C5C81186B3750B7C131EF41D733D
 
 Friendiqa: https://www.ma-nic.de/fdroid/repo?fingerprint=179661DBB726353002FDB771DD8FCADC907BA568D44DABA38829159750307464
 
@@ -77,5 +85,3 @@ USB0 Apps: https://app.usb0.net/repo?fingerprint=B96B7FE4FFBBA6362498454074ECE4B
 Nailyk, France: https://releases.nailyk.fr/repo?fingerprint=D0B77FDEC0362FC9DCBE2A7A0589F0B4C691EA882F57EECF794C0E6427F54411
 
 Partido Inter-Dimensional Pirata: https://fdroid.partidopirata.com.ar/fdroid/repo?fingerprint=3DF6969EA3A2186D8A5DB00884B3F42F164931E8CFAFD7CC48263CAD1361A1D5
-
-I2P: https://f-droid.i2p.io/repo?fingerprint=68E76561AAF3F53DD53BA7C03D795213D0CA1772C3FAC0159B50A5AA85C45DC6
